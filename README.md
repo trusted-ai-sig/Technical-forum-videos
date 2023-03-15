@@ -7,6 +7,7 @@
 Trusted AI SIG 书籍研讨与分享会，2023上半年主要内容为阅读和研讨《现代密码学——原理与协议》（Introduction to Modern Cryptography）一书，详情请见 https://gitee.com/mindspore/community/issues/I6AJEO。
 
 以下是已完成章节的内容简介与录屏链接：
+
 1）第一次研讨：原书1.4节 现代密码学的基本原则，https://www.bilibili.com/video/BV14g411V7nZ?p=17
 
 2）第二次研讨：原书第2章 完善保密加密，https://www.bilibili.com/video/BV14g411V7nZ?p=18
