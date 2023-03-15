@@ -4,7 +4,7 @@
 共同研讨书籍和论文，共同进步　/ 板块负责人：Rice
 
 #### 书籍研讨（进行中）
-Trusted AI SIG 书籍研讨与分享会，2023上半年主要内容为阅读和研讨《现代密码学——原理与协议》一书（英文名 Introduction to Modern Cryptography，作者为 Jonathan Katz 和 Yehuda Lindell），详情请见 https://gitee.com/mindspore/community/issues/I6AJEO。
+Trusted AI SIG 书籍研讨与分享会，2023上半年主要内容为阅读和研讨《现代密码学——原理与协议》一书（英文名 Introduction to Modern Cryptography，作者为 Jonathan Katz 和 Yehuda Lindell），详情请见 [【Trusted AI SIG】《现代密码学－原理与协议》众筹学讲](https://gitee.com/mindspore/community/issues/I6AJEO)。
 
 以下是已完成章节的内容简介与会议录屏链接：
 
